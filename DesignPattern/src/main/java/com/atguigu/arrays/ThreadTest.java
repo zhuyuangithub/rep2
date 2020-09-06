@@ -31,6 +31,12 @@ public class ThreadTest {
         System.out.println(a1.subtract(b1).setScale(2, RoundingMode.HALF_UP));
         System.out.println("123");
 
+<<<<<<< HEAD
         System.out.println("我是master");
+=======
+        System.out.println("dev");
+
+        System.out.println("dev123");
+>>>>>>> dev
     }
 }
