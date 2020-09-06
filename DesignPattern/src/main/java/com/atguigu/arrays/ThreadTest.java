@@ -30,5 +30,7 @@ public class ThreadTest {
         System.out.println(a - b);
         System.out.println(a1.subtract(b1).setScale(2, RoundingMode.HALF_UP));
         System.out.println("123");
+
+        System.out.println("dev");
     }
 }
