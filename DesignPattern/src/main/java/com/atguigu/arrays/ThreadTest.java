@@ -29,6 +29,6 @@ public class ThreadTest {
         BigDecimal b1 = new BigDecimal(Double.toString(b));
         System.out.println(a - b);
         System.out.println(a1.subtract(b1).setScale(2, RoundingMode.HALF_UP));
-
+        System.out.println("123");
     }
 }
