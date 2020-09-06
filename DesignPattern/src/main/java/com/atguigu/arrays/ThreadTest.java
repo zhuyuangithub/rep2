@@ -32,5 +32,7 @@ public class ThreadTest {
         System.out.println("123");
 
         System.out.println("dev");
+
+        System.out.println("dev123");
     }
 }
